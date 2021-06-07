@@ -8,7 +8,7 @@ I'm Poushali and
 - 📫 Reach out to me on my Instagram https://www.instagram.com/poushali_i/ or on my LinkedIn profile https://www.linkedin.com/in/poushali-deb-purkayastha/
 - ⚡ Fun fact: I love painting and anyone wanting to discuss Art can feel free to do so!
 
-![Poushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poushali0202&show_icons=true&theme=dark)
+![Poushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poushali0202&show_icons=true&theme=great-gatsby)
 
 
 
