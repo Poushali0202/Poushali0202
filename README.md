@@ -7,3 +7,6 @@ I'm Poushali and
 - 💬 Ask me about Machine Learning, Frontend Web development and for any other help and I'll try my level best.
 - 📫 Reach out to me on my Instagram https://www.instagram.com/poushali_i/ or on my LinkedIn profile https://www.linkedin.com/in/poushali-deb-purkayastha/
 - ⚡ Fun fact: I love painting and anyone wanting to discuss Art can feel free to do so!
+
+[![Poushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poushali0202)](https://github.com/Poushali0202/github-readme-stats)
+
