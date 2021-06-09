@@ -1,5 +1,5 @@
 ###
-
+![WhatsApp Video 2021-06-09 at 12 53 28 AM](https://user-images.githubusercontent.com/65014940/121302654-a2effe00-c917-11eb-8ba0-d6f376c14097.gif)
 
 - 🔭 I’m currently working on Machine Learning and Web Development projects.
 - 🌱 I’m currently learning Javascript and also exploring Data Science as well as Deep Learning.
