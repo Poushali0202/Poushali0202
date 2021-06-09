@@ -10,7 +10,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/poushali_i/)
 - ⚡ Fun fact: I love painting and anyone wanting to discuss Art can feel free to do so!
 
-![Poushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poushali0202&show_icons=true&theme=great-gatsby)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poushali0202&layout=compact)](https://github.com/Poushali0202/github-readme-stats)
+![Poushali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poushali0202&show_icons=true&theme=great-gatsby)    
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poushali0202&layout=compact)](https://github.com/Poushali0202/github-readme-stats)
 
 
 
