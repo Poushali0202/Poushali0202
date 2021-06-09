@@ -1,4 +1,4 @@
-### ![Alt Text](https://www.veed.io/download/f4179285-26ef-4e12-adb3-8c96c569fc21.gif)
+### https://user-images.githubusercontent.com/65014940/121302257-0cbbd800-c917-11eb-9021-a7a95155ce3a.mp4
 
 - 🔭 I’m currently working on Machine Learning and Web Development projects.
 - 🌱 I’m currently learning Javascript and also exploring Data Science as well as Deep Learning.
